@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+crud-api/
+*.db
+*.log
+.env
